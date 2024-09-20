@@ -1,5 +1,7 @@
 # Data Scientist
 
+### Technical Skills:  Python, PySpark, SQL, AWS, Databricks
+
 ### Education
 International Relations, M.S.
 
