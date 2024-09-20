@@ -1,15 +1,23 @@
 # Data Scientist
 
-### Technical Skills:  Python, PySpark, SQL, AWS, Databricks
+## Geospatial Predictions
+- 
 
-### Education
-International Relations, M.S.
+## Generative AI App
+- 
 
-### Experience
-Role @ Company
-- Big Impact 1
-- Big Impact 2
+## Amazon AI Reviews
+- 
 
-### Projects
-- AI/ML 1
-- AI/ML 2
+## Topic Modeling & Clustering
+- 
+
+## Time Series Forecasts
+- 
+
+## Classification
+- 
+
+## Regression
+- 
+
